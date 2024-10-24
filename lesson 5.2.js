@@ -27,6 +27,7 @@ function calculateTotal(services) {
     
 }
 
+console.log(services);
 console.log(calculateTotal(services));
 console.log(listOfNumbers);
 
